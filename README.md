@@ -28,6 +28,6 @@ Feel free to explore each day's folder to see what I've been working on. Inside 
 
 ## Let's Connect!
 
-I'm excited to share my coding journey with you! If you have any questions, suggestions, or just want to say hi, feel free to reach out. You can connect with me on [LinkedIn](www.linkedin.com/in/oyeshola-oyeniyi-440959218)
+I'm excited to share my coding journey with you! If you have any questions, suggestions, or just want to say hi, feel free to reach out. You can connect with me on [LinkedIn](www.linkedin.com/in/OyesholaOyeniyi)
 
 Happy coding! 💻✨
